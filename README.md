@@ -21,3 +21,6 @@ To move the snake, you can use the setInterval method to update the position of 
 Finally, you can render the game board component and its child components, such as the snake and food components, using React's render method.
 
 Overall, creating a snake game using ReactJS involves managing the game state, handling user input, and rendering the game components. With React's component-based architecture and state management, you can create a responsive and interactive snake game that is both fun to play and easy to maintain.
+
+
+Ready to play ? https://v4ed2v.csb.app/
